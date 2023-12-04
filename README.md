@@ -27,7 +27,7 @@ Clone the Repository: Start by cloning this repository to your local machine usi
 
 bash
 Copy code
-# git clone https://github.com/your-username/ATM-Simulator-Project.git
+# git clone https://github.com/hiteker67/ATM-Simulator-Project.git
 Setup Database: Execute the SQL scripts provided in the database folder to set up the required MySQL database and tables.
 
 Open in NetBeans: Import the project into NetBeans and ensure that your development environment is set up correctly.
