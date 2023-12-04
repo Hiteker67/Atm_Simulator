@@ -27,7 +27,8 @@ Clone the Repository: Start by cloning this repository to your local machine usi
 
 bash
 Copy code
-# git clone https://github.com/hiteker67/ATM-Simulator-Project.git
+# [git clone https://github.com/hiteker67/ATM-Simulator-Project.git](https://github.com/Hiteker67/Atm_Simulator.git)![BankProject](https://github.com/Hiteker67/Atm_Simulator/assets/92846903/4ad02cb3-ffa0-4dbc-8712-09ac2853332e)
+
 Setup Database: Execute the SQL scripts provided in the database folder to set up the required MySQL database and tables.
 
 Open in NetBeans: Import the project into NetBeans and ensure that your development environment is set up correctly.
